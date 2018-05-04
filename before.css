@@ -1,0 +1,8 @@
+.sw-tb-gray::before {
+	content: "";
+	background-color: #C7CACC;
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	margin-right: 5px;
+}
