@@ -3,13 +3,13 @@
 }
 
 .button {
-  border: 1px solid black;
+  border: 1px solid red;
   border-radius: 3px;
   width: 100px;
   height: 30px;
   display: block;
 
-  background: linear-gradient(to right, black 50%, white 50%);
+  background: linear-gradient(to right, green 50%, white 50%);
   background-size: 200% 100%;
   background-position: right bottom;
   transition: all .5s ease-out;
